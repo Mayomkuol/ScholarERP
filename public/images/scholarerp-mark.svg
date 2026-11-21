@@ -1,0 +1,52 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 100 100"
+     fill="none">
+
+  <defs>
+    <linearGradient id="blue" x1="15" y1="15" x2="85" y2="85">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#10254B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Open book -->
+  <path d="M12 53 Q30 42 49 57 Q68 42 88 53
+           L88 79 Q67 68 50 84 Q31 68 12 79 Z"
+        fill="url(#blue)" stroke="#2563EB" stroke-width="2"/>
+
+  <path d="M50 58 V83"
+        stroke="#FFFFFF" stroke-width="2.5"/>
+
+  <path d="M19 59 Q34 53 46 65 M81 59 Q66 53 54 65"
+        stroke="#FFFFFF" stroke-width="2"
+        stroke-linecap="round"/>
+
+  <!-- Graduation cap -->
+  <path d="M8 32 L50 13 L92 32 L50 51 Z"
+        fill="#10254B" stroke="#2563EB" stroke-width="2"/>
+
+  <path d="M25 40 V54 Q50 69 75 54 V40"
+        stroke="#10254B" stroke-width="4"
+        stroke-linejoin="round"/>
+
+  <!-- Gold tassel -->
+  <path d="M88 33 V53"
+        stroke="#F59E0B" stroke-width="3"
+        stroke-linecap="round"/>
+
+  <circle cx="88" cy="56" r="3" fill="#F59E0B"/>
+
+  <!-- Digital pixels -->
+  <rect x="76" y="5" width="8" height="8"
+        rx="1" fill="#2563EB"/>
+  <rect x="87" y="15" width="7" height="7"
+        rx="1" fill="#2563EB"/>
+  <rect x="73" y="19" width="6" height="6"
+        rx="1" fill="#60A5FA"/>
+
+  <!-- Gold orbit -->
+  <path d="M9 86 Q52 103 91 45"
+        stroke="#F59E0B" stroke-width="3"
+        stroke-linecap="round"/>
+</svg>
